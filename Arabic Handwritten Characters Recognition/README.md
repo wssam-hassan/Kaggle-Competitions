@@ -5,6 +5,11 @@ Given images of handwritten Arabic characters and required to recognize the char
 - Check this link for Kaggle Notebook: https://www.kaggle.com/wssamhassan/cnn-for-arabic-hand-written-characters
 <br>
 
+# The Result (Accuracy):
+- Public Score: 0.96875
+- Private Score: 0.97656
+<br>
+
 ## Repo Organization
 
     ├── data                      <- Data used in competition
