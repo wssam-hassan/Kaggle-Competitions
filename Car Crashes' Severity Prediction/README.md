@@ -6,6 +6,7 @@ It's needed to prepare the dataset and train the prediction systems.
 - Check this link for Kaggle Competition: https://www.kaggle.com/c/car-crashes-severity-prediction
 - Check this link for Kaggle Notebook: https://www.kaggle.com/mohammadjhanafy/holiday-weather-train-test
 
+<br>
 
 ## Repo Organization
 
