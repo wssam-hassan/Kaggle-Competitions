@@ -5,7 +5,7 @@ Given images of handwritten Arabic characters and required to recognize the char
 - Check this link for Kaggle Notebook: https://www.kaggle.com/wssamhassan/cnn-for-arabic-hand-written-characters
 <br>
 
-# Repo Organization
+## Repo Organization
 
     ├── data                      <- Data used in competition
     └── competition notebook
