@@ -7,6 +7,6 @@ Reducing overfitting is the next logical step in facing overfitting in your mode
 <br>
 
 ## Repo Organization
-
+    
     ├── data                      <- Data used in competition
     └── competition notebook
